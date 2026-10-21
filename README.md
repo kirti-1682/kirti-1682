@@ -52,18 +52,11 @@ To become an AI/ML Engineer by developing practical projects and continuously im
 
 ### Machine Learning
 ML algorithms, prediction and model evaluation.
-
-- [Sentiment Analysis](https://github.com/kirti-1682/Sentiment_Analysis_NLP)
-- More ML projects coming soon
-
 </td>
 <td width="50%" valign="top">
 
 ### Deep Learning
 Neural networks, CNNs and deep learning models.
-
-- Projects coming soon
-
 </td>
 </tr>
 <tr>
@@ -71,17 +64,11 @@ Neural networks, CNNs and deep learning models.
 
 ### Data Science
 Data preprocessing, experimentation and analysis.
-
-- Projects coming soon
-
 </td>
 <td width="50%" valign="top">
 
 ### Mathematics & Statistics
 Probability, statistics, linear algebra and optimization.
-
-- Learning notes and Python examples coming soon
-
 </td>
 </tr>
 </table>
