@@ -24,16 +24,6 @@ I'm a beginner in AI/ML and enjoy learning by building practical projects. I'm w
 - flask
 - Jupyter Notebook
 - Git and GitHub
-  
-## 📊 Machine Learning Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [Sentiment Analysis](https://github.com/kirti-1682/Sentiment_Analysis_NLP) | Text sentiment classification | Python, NLP, ML |
-
-### 🚀 More ML Projects Coming Soon
-I'll add more machine learning projects as I build and evaluate them.
-
 
 ## Current Project: I am working on - TrafficMind AI
 
