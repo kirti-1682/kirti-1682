@@ -1,4 +1,4 @@
-# Hi, I'm Kirti Muneshwar 👋
+# Hi, I'm Kirti Muneshwar 
 
 ### Aspiring AI/ML Engineer | M.Tech Thinking Systems @ GECA
 
@@ -6,18 +6,18 @@ I'm an Information Technology graduate currently pursuing M.Tech in Thinking Sys
 
 I'm a beginner in AI/ML and enjoy learning by building practical projects. I'm working on strengthening my Python, Machine Learning, and Deep Learning skills.
 
-## 🎓 Education
+## Education
 - M.Tech in Thinking Systems — GECA, Chhatrapati Sambhajinagar
 - BE in Information Technology — 2026 SPPU University ,Pune 
 
-## 🧠 Areas I'm Learning
+## Areas I'm Learning
 - Python for AI/ML
 - Machine Learning
 - Deep Learning and Neural Networks
 - Reinforcement Learning
 - Intelligent Autonomous Systems
 
-## 🛠️ Technologies
+## Technologies
 - Python
 - NumPy and Pandas
 - scikit-learn
@@ -25,7 +25,7 @@ I'm a beginner in AI/ML and enjoy learning by building practical projects. I'm w
 - Jupyter Notebook
 - Git and GitHub
 
-## 🚦 Current Project: I am working on - TrafficMind AI
+## Current Project: I am working on - TrafficMind AI
 
 **AI-Powered Autonomous Traffic Management System Using Deep Reinforcement Learning**
 
@@ -34,10 +34,10 @@ I'm exploring how an AI agent can learn to adjust traffic signal timings using s
 **Status:** In progress  
 **Tools:** Python, SUMO, Deep Reinforcement Learning
 
-## 🎯 My Goal
+## My Goal
 To become an AI/ML Engineer by developing practical projects and continuously improving my technical skills.
 
-## 🌐 Connect With Me
+## Connect With Me
 - GitHub: https://github.com/kirti-1682
 
-⭐ Thanks for visiting my profile!
+!Thanks for visiting my profile!
